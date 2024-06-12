@@ -1,2 +1,1 @@
 ﻿this is feature1.txt in master branch
-this is feature1
